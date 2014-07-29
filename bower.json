@@ -1,0 +1,25 @@
+{
+  "name": "jquery-crop-center",
+  "version": "1.0.0",
+  "homepage": "https://github.com/yamii/jquery-crop-center",
+  "authors": [
+    "Miriam Mae Iglesia <miriamiglesia@gmail.com>"
+  ],
+  "description": "Jquery plugin",
+  "main": "index.html",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "crop",
+    "center"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/js/libs",
+    "test",
+    "tests"
+  ]
+}
